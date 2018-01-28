@@ -68,7 +68,7 @@ a:hover {
 }
 
 a:visited {
-  color: ;rgb(176, 176, 144)
+  color: rgb(176, 176, 144);
 }
 
 @media only screen and (max-width: 1042px) {
