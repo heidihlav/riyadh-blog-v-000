@@ -44,7 +44,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
-  color: rgb(176, 176, 144);
+  color: rgb(219, 112, 4);
 }
 
 img {
@@ -68,7 +68,7 @@ a:hover {
 }
 
 a:visited {
-  color: rgb(219, 112, 4);
+  color: ;rgb(176, 176, 144)
 }
 
 @media only screen and (max-width: 1042px) {
