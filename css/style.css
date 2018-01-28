@@ -21,7 +21,8 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  /*background: rgba(255,255,255,.85);*/
+  background: rgb(112, 150, 188);
 }
 
 h1, h2 {
